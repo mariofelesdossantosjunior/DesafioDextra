@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DesafioDextra</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_lanches">Lanches</string>
+    <string name="title_carrinho">Carrinho</string>
+    <string name="title_promocoes">Promoções</string>
+    <string name="lunch_name">Nome</string>
+    <string name="lunch_price">Preço</string>
+    <string name="lunch_ingredients">Ingredientes</string>
+    <string name="desc">Descriçao</string>
+    <string name="date">Data</string>
+    <string name="add_cart">Adicionar ao Carrinho</string>
+    <string name="customize">Customizar</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
