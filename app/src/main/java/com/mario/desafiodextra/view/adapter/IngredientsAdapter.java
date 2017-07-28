@@ -25,7 +25,6 @@ import butterknife.ButterKnife;
 
 public class IngredientsAdapter extends RecyclerView.Adapter<IngredientsAdapter.MyViewHolder> {
     private List<IngredienteAPI> ingredients;
-    //private List<Ingrediente> extras;
     private Map<Long,Integer> extras = new HashMap<>();
 
     public IngredientsAdapter(List<IngredienteAPI> ingredients) {
